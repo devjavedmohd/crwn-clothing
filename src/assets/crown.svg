@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-3eab690b-f0e1-48f4-b162-0c9b50cca2a3" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 39">
+  <g id="uuid-c1bc47e7-7f78-4b2b-9850-f4e5f7d03592" data-name="Layer 1">
+    <g id="uuid-cbb75180-699f-4fd8-93d4-057f1cab2129" data-name="WiP">
+      <g id="uuid-8675f253-ef7a-42ed-bea1-f9471d63bb81" data-name="Artboard">
+        <g id="uuid-3ced1183-9bf8-4607-b735-b5d9607fdf53" data-name="Group">
+          <polygon id="uuid-fd7df064-5698-43a1-9eaa-6075f46fae92" data-name="Rectangle" points="3 14 25 26.5 47 14 40.86 39 9.08 39 3 14" fill="#808282" fill-rule="evenodd"/>
+          <polygon id="uuid-a9f53244-6d27-45f7-ab70-57864f85774d" data-name="Triangle" points="25 8 40 39 10 39 25 8" fill="rgba(16, 26, 26, .26)" fill-rule="evenodd"/>
+          <circle id="uuid-31ba6259-6e8f-47ad-88ce-32c4d668ca15" data-name="Oval" cx="2" cy="9" r="2" fill="#5e6363"/>
+          <circle id="uuid-a3e9286a-8309-4084-9910-d435b29be5dd" data-name="Oval" cx="25" cy="2" r="2" fill="#5e6363"/>
+          <circle id="uuid-9255836c-6aa3-4f56-9a36-edde40df7a40" data-name="Oval" cx="48" cy="9" r="2" fill="#5e6363"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
