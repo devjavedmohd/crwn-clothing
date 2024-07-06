@@ -2,6 +2,8 @@ import { signInWithGooglePopup, createUserDocumentFromAuth } from "../../utils/f
 import SignUpForm from "../../components/sign-up-form/sign-up-form.component";
 import './signin.styles.scss'
 
+import Button from "../../components/button/button.component";
+
 const SignIn = () => {
 
     const loginGoogleUser = async () => {
@@ -10,9 +12,9 @@ const SignIn = () => {
     }
     
     return (
-        <div className="button-container">
+        <div>
             <h1>Sign In Page</h1>
-            <button className="google-sign-in" onClick={loginGoogleUser}>Sign in with Google Popup</button>
+            <Button className="google-sign-in" onClick={loginGoogleUser}>Sign in with Google</Button>
             <SignUpForm></SignUpForm>
         </div>        
     )
